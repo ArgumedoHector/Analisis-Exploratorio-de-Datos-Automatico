@@ -13,7 +13,7 @@ with st.sidebar:
     st.image("https://abdatum.com/media/images/analisis-exploratorio-datos-cover.png")
     st.title("EDA-APP")
     choice = st.radio("Panel",["Subir","EDA"])
-    st.info("Esta app te ayuda realizando un Analisis Exploratorio de Datsos")
+    st.info("Esta app te ayuda realizando un Analisis Exploratorio de Datos")
 
 if choice == "Subir":
     st.title("Sube tu Dataset")
