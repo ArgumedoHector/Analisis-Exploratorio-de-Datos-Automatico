@@ -25,4 +25,9 @@ Por este motivo, esta vez les traigo una daptación de un codigo de Python que n
 
 A la hora de implementar un script automático adapté una idea de un desafio realizado por **@nicknochnack**, usuario de Github, que encontré en uno de sus videos de Youtube. 
 
-- Aqui les dejo el LINK para que puedan probarla: [App de Streamlit]('https://argumedohector-analisis-exploratorio-de-datos-automa-eda-nehg7b.streamlit.app')
+¿Cómo usar la App?
+- Para usar la App solo debes seguir el link de mas a bajo, subir un sataset y del panel lateral hacer click en **"EDA"** para que suceda la magia.
+- Aqui les dejo el LINK para que puedan probarla: [App de Streamlit](https://argumedohector-analisis-exploratorio-de-datos-automa-eda-nehg7b.streamlit.app)
+
+- Aquí les dejo una captura:
+![image](https://user-images.githubusercontent.com/109697217/222575846-f23d1258-5701-4af4-a36e-8fea97f6eeaa.png)
